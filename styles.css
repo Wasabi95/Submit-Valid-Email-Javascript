@@ -1,0 +1,10 @@
+body {
+  background-color: salmon;
+  min-height: calc(100vh - 3rem);
+  display: grid;
+  place-items: center;
+}
+form,
+input {
+  font-size: 60px;
+}
